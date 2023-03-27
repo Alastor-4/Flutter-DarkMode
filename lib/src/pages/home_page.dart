@@ -19,7 +19,7 @@ class _HomePageState extends State<HomePage> {
     return Scaffold(
       appBar: AppBar(
         centerTitle: true,
-        title: const Text('Preferencias de Usuario'),
+        title: const Text('Modo Oscuro'),
       ),
       body: Column(
         mainAxisAlignment: MainAxisAlignment.center,
